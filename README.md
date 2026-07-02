@@ -23,5 +23,5 @@ Desenvolvo automações de rotinas, scripts e documentações técnicas para oti
 ---
 
 ### 📬 Vamos nos conectar?
-* **LinkedIn:** [Gabriel Araujo da Silva](https://www.linkedin.com/in/gabriel-araujo-da-silva-85373734a)
+* **LinkedIn:** [Gabriel Araujo da Silva](https://www.linkedin.com/in/gabriel-araujo-da-silva-83573734a/)
 * **E-mail:** gabriel777176@gmail.com
