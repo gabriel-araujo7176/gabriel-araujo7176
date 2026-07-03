@@ -7,7 +7,7 @@ Desenvolvo automações de rotinas, scripts e documentações técnicas para oti
 ---
 
 ### 🛠️ Principais Competências & Ferramentas
-* **Programação & Desenvolvimento:** JavaScript, Python, Java, C e Git/GitHub.
+* **Programação & Desenvolvimento (Base Acadêmica):** Lógica de programação com noções em JavaScript, Python, Java, C e versionamento com Git/GitHub.
 * **Suporte & Infraestrutura:** Help Desk (N1/N2), Troubleshooting de Redes, Sistema Operacional Windows/Linux.
 * **Automação & Scripts:** Batch (.bat), CLI, noções de Shell Script.
 * **Sistemas de Gestão:** Active Directory (AD), Controle de Ativos e Inventário de Hardware/Software.
